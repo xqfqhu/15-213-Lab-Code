@@ -1,0 +1,1 @@
+GET http://www.cmu.edu/hub/index.html HTTP/1.1\n\r

@@ -1,1 +1,0 @@
-GET /hub/index.html HTTP/1.0
